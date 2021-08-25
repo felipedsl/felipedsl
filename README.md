@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
 
-<!--
-**felipedsl/felipedsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" style="width:40%" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif">
 
-Here are some ideas to get you started:
+[![Email Badge](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.dsl@globo.com)](mailto:felipe.dsl@globo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedsl/)](https://www.linkedin.com/in/felipedsl/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there,
+
+My name is Felipe Lima. I'm 32, used to work as a Navigator in the Seismic Industry, moving towards Software Development.
+
+Recently completed a basic course on Python and currently I've been studying HTML, CSS, JavaScript and furthering my Python learning.
+
+## 👨‍💻 About me 
+- 💻 Computer Systems Technology graduate student @ Universidade Federal Fluminense - RJ.
+- 🛠 Techs: Python, Javascript, VBA.
+- 📚 Studying CS50 Introduction to Computer Science @ HarvardX
+- 📚 Basic Python Course @ Firjan - SENAI
+
+## ⚛️ My Projects
+- Python projects
+    - [BMI Calculator using methods to calculate health risk](https://github.com/felipedsl/Calculadora-IMC)
