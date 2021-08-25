@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-<img align="right" style="width:40%" src="https://giphy.com/gifs/5Zesu5VPNGJlm/giphy.gif">
+<img align="right" style="width:40%" src="https://media.giphy.com/gifs/5Zesu5VPNGJlm/giphy.gif">
 
 [![Email Badge](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.dsl@globo.com)](mailto:felipe.dsl@globo.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedsl/)](https://www.linkedin.com/in/felipedsl/)
