@@ -2,7 +2,7 @@
 
 <img align="right" style="width:20%" src="https://stockhead.com.au/wp-content/uploads/2021/04/money-type.gif">
 
-[![Email Badge](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipe.dsl@globo.com)](mailto:felipe.dsl@globo.com)
+[![Email Badge](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipedsl@hotmail.com)](mailto:felipe.dsl@globo.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedsl/)](https://www.linkedin.com/in/felipedsl/)
 
 Hello there,
